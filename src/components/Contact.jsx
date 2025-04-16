@@ -13,11 +13,11 @@ const Contact = () => {
         <div className="flex flex-col items-center space-y-4 text-lg">
           <div className="flex items-center gap-3 text-gray-800">
             <Mail className="w-5 h-5 text-blue-600" />
-            <span>pranit.shinde@example.com</span>
+            <span>pranitshinde68@gmail.com</span>
           </div>
           <div className="flex items-center gap-3 text-gray-800">
             <Phone className="w-5 h-5 text-blue-600" />
-            <span>+91 98765 43210</span>
+            <span>+91 9967199373</span>
           </div>
         </div>
       </div>
